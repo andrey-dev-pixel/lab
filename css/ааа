@@ -1,0 +1,73 @@
+<section class="info" id="info">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-xl-9">
+          <div class="mission">
+            <h4 class="mission__title">
+              Миссия LAB Consulting
+            </h4>
+            <div class="mission__block d-flex">
+              <div class="mission__text-b mission__text-b_long">
+                <p class="mission__text">
+                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.
+                </p>
+                <p class="mission__text">
+                  Eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+                </p>
+              </div>
+              <div class="mission__text-b mission__text-b_short ml-xl-auto">
+                <p class="mission__text">
+                  Eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+                </p>
+                <p class="mission__text">
+                  Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+                </p>
+              </div>
+              <a href="#" class="mission__btn">
+                Узнать больше
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-xl-3">
+          <div class="news">
+            <h4 class="news__title">
+              Новости
+            </h4>
+            <div class="news__block d-flex">
+              <div class="news__item">
+                <a href="#" class="news__link">
+                  <h6 class="news__name">
+                    LAB Consulting запускает новое направление в своих услугах
+                  </h6>
+                </a>
+                <span class="news__date">
+                  02.12.2015
+                </span>
+              </div>
+              <div class="news__item">
+                <a href="#" class="news__link">
+                  <h6 class="news__name">
+                    LAB Consulting запускает новое направление в своих услугах
+                  </h6>
+                </a>
+                <span class="news__date">
+                  02.12.2015
+                </span>
+              </div>
+              <div class="news__item">
+                <a href="#" class="news__link">
+                  <h6 class="news__name">
+                    LAB Consulting запускает новое направление в своих услугах
+                  </h6>
+                </a>
+                <span class="news__date">
+                  02.12.2015
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
